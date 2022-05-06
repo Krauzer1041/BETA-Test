@@ -1,0 +1,20 @@
+[{
+        "id": 1,
+        "nombre": "Jason",
+        "apellidos": "Gonzalez Salas",
+        "genero": "masculino",
+        "telefono": 86413322
+    }, {
+        "id": 2,
+        "nombre": "Pedro",
+        "apellidos": "Martinez Herrera",
+        "genero": "masculino",
+        "telefono": 74589623
+    },
+    {
+        "id": 3,
+        "nombre": "Maria",
+        "apellidos": "Rojas Rodriguez",
+        "genero": "femenino",
+        "telefono": 62154785
+    }]
